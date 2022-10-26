@@ -15,7 +15,7 @@ function ResumeNew() {
         <Particle />
         <Row style={{ justifyContent: "center", alignItems: "center"}}>
           <Col
-            md={6}
+            md={12}
             style={{
               position: "relative"
             }}
