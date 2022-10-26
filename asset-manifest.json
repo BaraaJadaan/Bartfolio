@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/BaraaJadaan/Bartfolio/static/css/main.95dca6a9.css",
-    "main.js": "/BaraaJadaan/Bartfolio/static/js/main.f95681b1.js",
-    "static/js/415.4d6acbeb.chunk.js": "/BaraaJadaan/Bartfolio/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/BaraaJadaan/Bartfolio/static/js/787.1ed0c42c.chunk.js",
+    "main.js": "/BaraaJadaan/Bartfolio/static/js/main.f0cd29bf.js",
+    "static/js/415.1986a4d7.chunk.js": "/BaraaJadaan/Bartfolio/static/js/415.1986a4d7.chunk.js",
+    "static/js/787.9408a00c.chunk.js": "/BaraaJadaan/Bartfolio/static/js/787.9408a00c.chunk.js",
     "static/media/Baraa Jadaan's Resume.pdf": "/BaraaJadaan/Bartfolio/static/media/Baraa Jadaan's Resume.a81d46247e4990898229.pdf",
     "static/media/UpHills.png": "/BaraaJadaan/Bartfolio/static/media/UpHills.8e10014cd7be5c759594.png",
     "static/media/home-main.svg": "/BaraaJadaan/Bartfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -16,12 +16,12 @@
     "static/media/pre.svg": "/BaraaJadaan/Bartfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/BaraaJadaan/Bartfolio/index.html",
     "main.95dca6a9.css.map": "/BaraaJadaan/Bartfolio/static/css/main.95dca6a9.css.map",
-    "main.f95681b1.js.map": "/BaraaJadaan/Bartfolio/static/js/main.f95681b1.js.map",
-    "415.4d6acbeb.chunk.js.map": "/BaraaJadaan/Bartfolio/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/BaraaJadaan/Bartfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.f0cd29bf.js.map": "/BaraaJadaan/Bartfolio/static/js/main.f0cd29bf.js.map",
+    "415.1986a4d7.chunk.js.map": "/BaraaJadaan/Bartfolio/static/js/415.1986a4d7.chunk.js.map",
+    "787.9408a00c.chunk.js.map": "/BaraaJadaan/Bartfolio/static/js/787.9408a00c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.95dca6a9.css",
-    "static/js/main.f95681b1.js"
+    "static/js/main.f0cd29bf.js"
   ]
 }
