@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.43a9161a.css",
-    "main.js": "/static/js/main.a1583156.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/Baraa Jadaan's Resume.pdf": "/static/media/Baraa Jadaan's Resume.a81d46247e4990898229.pdf",
-    "static/media/UpHills.png": "/static/media/UpHills.8e10014cd7be5c759594.png",
-    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/Stocking.png": "/static/media/Stocking.205bc3f4ac1bafd12015.png",
-    "static/media/OneForAll.png": "/static/media/OneForAll.c455bf6a8af051797f19.png",
-    "static/media/logo.png": "/static/media/logo.88db316643fbf942bc23.png",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.43a9161a.css.map": "/static/css/main.43a9161a.css.map",
-    "main.a1583156.js.map": "/static/js/main.a1583156.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/Bartfolio/static/css/main.418a1386.css",
+    "main.js": "/Bartfolio/static/js/main.5c20f7e4.js",
+    "static/js/415.4d6acbeb.chunk.js": "/Bartfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/Bartfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Baraa Jadaan's Resume.pdf": "/Bartfolio/static/media/Baraa Jadaan's Resume.5b6b8659f4a288f3b0e2.pdf",
+    "static/media/UpHills.png": "/Bartfolio/static/media/UpHills.8e10014cd7be5c759594.png",
+    "static/media/home-main.svg": "/Bartfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/Bartfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Stocking.png": "/Bartfolio/static/media/Stocking.205bc3f4ac1bafd12015.png",
+    "static/media/OneForAll.png": "/Bartfolio/static/media/OneForAll.c455bf6a8af051797f19.png",
+    "static/media/logo.png": "/Bartfolio/static/media/logo.88db316643fbf942bc23.png",
+    "static/media/home-bg.jpg": "/Bartfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/Bartfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/Bartfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/Bartfolio/index.html",
+    "main.418a1386.css.map": "/Bartfolio/static/css/main.418a1386.css.map",
+    "main.5c20f7e4.js.map": "/Bartfolio/static/js/main.5c20f7e4.js.map",
+    "415.4d6acbeb.chunk.js.map": "/Bartfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/Bartfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43a9161a.css",
-    "static/js/main.a1583156.js"
+    "static/css/main.418a1386.css",
+    "static/js/main.5c20f7e4.js"
   ]
 }
