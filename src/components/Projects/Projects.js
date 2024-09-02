@@ -7,6 +7,8 @@ import UpHills from "../../Assets/Projects/UpHills.png";
 import Stocking from "../../Assets/Projects/Stocking.png";
 import BrandingMind from "../../Assets/Projects/BrandingMind.png";
 import NFTMarket from "../../Assets/Projects/NFTMarket.png";
+import LightingBuilding from "../../Assets/Projects/Lighting&Building.png";
+import GamerWiki from "../../Assets/Projects/GamerWiki.png";
 import Footer from "../Footer";
 
 
@@ -32,14 +34,13 @@ function Projects() {
               demoLink="https://youtu.be/PU6Gmy2KrZI"
             />
           </Col>
-
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={UpHills}
-              title="UpHills"
-              description="Modern landing page for a bikes leasing company done using pure CSS"
-              ghLink="https://github.com/BaraaJadaan/UpHills"
-              demoLink="https://baraajadaan.github.io/UpHills/"
+              imgPath={GamerWiki}
+              title="GamerWiki"
+              description="A reliable games search portal to find out games’ information and filter by popularity, release date, etc. Used Zustand, React Query and Typescript, Chakra UI, and RAWG API "
+              ghLink="https://github.com/BaraaJadaan/gamer-wiki"
+              demoLink="https://gamer-wiki-sepia.vercel.app/"
             />
           </Col>
 
@@ -52,8 +53,27 @@ function Projects() {
               demoLink="https://baraajadaan.github.io/Stocking/"              
             />
           </Col>
-        </Row>
-        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={LightingBuilding}
+              title="LightingBuilding"
+              description="Modern landing page for a lighting selling company done using GSAP for animation and Tailwind for styling"
+              ghLink="https://github.com/BaraaJadaan/lighting-building"
+              demoLink="https://lighting-building.vercel.app/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={UpHills}
+              title="UpHills"
+              description="Modern landing page for a bikes leasing company done using pure CSS"
+              ghLink="https://github.com/BaraaJadaan/UpHills"
+              demoLink="https://baraajadaan.github.io/UpHills/"
+            />
+          </Col>
+
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={BrandingMind}
@@ -72,6 +92,7 @@ function Projects() {
               demoLink="https://baraajadaan.github.io/nft-market/"
             />
           </Col>
+          
         </Row>
 
       </Container>

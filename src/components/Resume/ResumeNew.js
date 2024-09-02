@@ -32,7 +32,7 @@ function ResumeNew() {
           <Col
             md={6}
           >
-            <img style={{ width:'350px' }} src="https://i.ibb.co/8rQLd5d/Baraa-Jadaan.jpg" alt="Baraa-Jadaan" border="0"></img>
+            <img style={{ width:'350px' }} src="https://i.ibb.co/8sTLZQc/Baraa-s-Resume.jpg" alt="Baraa-Jadaan" border="0"></img>
           </Col>
         </Row>
       </Container>
