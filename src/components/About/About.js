@@ -30,10 +30,6 @@ function About() {
             <img style={{width:'100%'}} src={about} alt="guy working"></img>
             
           </Col>
-          <p style={{ color: "rgb(155 126 172)", padding:'80px'}}>
-            “If I were a medical man, I should prescribe a holiday to any patient who considered his work important.”
-            <span className="blockquote-footer">Bertrand Russell</span>
-          </p>
 
         </Row>
         <h1 className="project-heading">

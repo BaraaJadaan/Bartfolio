@@ -266,8 +266,8 @@ button:focus {
   background-image: var(--image-gradient), url(./Assets/home-bg.jpg);
   background-position: top center;
   background-repeat: no-repeat;
-  padding-bottom: 30px  ;
-  padding-top: 30px  ;
+  padding-top: 50px;
+  height: 100vh;
 }
 
 .home-content {
@@ -361,7 +361,7 @@ button:focus {
   display: inline-block ;
   width: 40px ;
   height: 40px ;
-  font-size: 1.2em;
+  font-size: 1.44em;
   background: rgba(255, 255, 255, 0.972) ;
   border-radius: 50%;
   transition: 0.5s;
