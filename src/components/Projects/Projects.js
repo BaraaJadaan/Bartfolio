@@ -9,6 +9,7 @@ import BrandingMind from "../../Assets/Projects/BrandingMind.png";
 import NFTMarket from "../../Assets/Projects/NFTMarket.png";
 import LightingBuilding from "../../Assets/Projects/Lighting&Building.png";
 import GamerWiki from "../../Assets/Projects/GamerWiki.png";
+import Filmora from "../../Assets/Projects/Filmora.png";
 import Footer from "../Footer";
 
 
@@ -51,6 +52,15 @@ function Projects() {
               description="Search for a stock and display its historical price changes and the latest finance news"
               ghLink="https://github.com/BaraaJadaan/Stocking"
               demoLink="https://baraajadaan.github.io/Stocking/"              
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Filmora}
+              title="Filmora"
+              description="A movie search portal that allow the user to search for movies and see all their information then add them to wishlist if he's logged in. Used React, Redux, TMDB movie API and Material UI"
+              ghLink="https://github.com/BaraaJadaan/filmora"
+              demoLink="https://filmora-beta.vercel.app"              
             />
           </Col>
 
