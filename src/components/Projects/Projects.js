@@ -10,6 +10,7 @@ import NFTMarket from "../../Assets/Projects/NFTMarket.png";
 import LightingBuilding from "../../Assets/Projects/Lighting&Building.png";
 import GamerWiki from "../../Assets/Projects/GamerWiki.png";
 import Filmora from "../../Assets/Projects/Filmora.png";
+import Firebee from "../../Assets/Projects/Firebee.png";
 import Footer from "../Footer";
 
 
@@ -63,7 +64,15 @@ function Projects() {
               demoLink="https://filmora-beta.vercel.app"              
             />
           </Col>
-
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={BrandingMind}
+              title="Branding Mind"
+              description="Modern website for a branding agency that showcase their portfolio"
+              ghLink="https://github.com/BaraaJadaan/brandingmind"
+              demoLink="https://baraajadaan.github.io/brandingmind/"
+            />
+          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={LightingBuilding}
@@ -71,6 +80,15 @@ function Projects() {
               description="Modern landing page for a lighting selling company done using GSAP for animation and Tailwind for styling"
               ghLink="https://github.com/BaraaJadaan/lighting-building"
               demoLink="https://lighting-building.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Firebee}
+              title="Firebee"
+              description="Responsive product landing page for Firebee, showcasing its features, pricing options, and customer benefits. The page is built with React and Chakra UI"
+              ghLink="https://github.com/BaraaJadaan/firebee"
+              demoLink="https://firebee-nine.vercel.app/"
             />
           </Col>
 
@@ -84,15 +102,6 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
-            <ProjectCard
-              imgPath={BrandingMind}
-              title="Branding Mind"
-              description="Modern website for a branding agency that showcase their portfolio"
-              ghLink="https://github.com/BaraaJadaan/brandingmind"
-              demoLink="https://baraajadaan.github.io/brandingmind/"
-            />
-          </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={NFTMarket}
