@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bartfolio/static/css/main.65877e90.css",
-    "main.js": "/Bartfolio/static/js/main.f560e2f6.js",
+    "main.js": "/Bartfolio/static/js/main.fb05add9.js",
     "static/js/415.4d6acbeb.chunk.js": "/Bartfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Bartfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Baraa's Resume.pdf": "/Bartfolio/static/media/Baraa's Resume.ce9728b3fa9726e04135.pdf",
@@ -11,6 +11,7 @@
     "static/media/GamerWiki.png": "/Bartfolio/static/media/GamerWiki.febefa15fd4998e0554a.png",
     "static/media/home-main.svg": "/Bartfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/Bartfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Firebee.png": "/Bartfolio/static/media/Firebee.e21c2528a41f9c87b9b0.png",
     "static/media/Stocking.png": "/Bartfolio/static/media/Stocking.205bc3f4ac1bafd12015.png",
     "static/media/OneForAll.png": "/Bartfolio/static/media/OneForAll.c455bf6a8af051797f19.png",
     "static/media/NFTMarket.png": "/Bartfolio/static/media/NFTMarket.fb59ed262c7cd3688d9e.png",
@@ -21,12 +22,12 @@
     "static/media/pre.svg": "/Bartfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Bartfolio/index.html",
     "main.65877e90.css.map": "/Bartfolio/static/css/main.65877e90.css.map",
-    "main.f560e2f6.js.map": "/Bartfolio/static/js/main.f560e2f6.js.map",
+    "main.fb05add9.js.map": "/Bartfolio/static/js/main.fb05add9.js.map",
     "415.4d6acbeb.chunk.js.map": "/Bartfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Bartfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65877e90.css",
-    "static/js/main.f560e2f6.js"
+    "static/js/main.fb05add9.js"
   ]
 }
