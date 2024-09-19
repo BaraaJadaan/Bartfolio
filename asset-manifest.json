@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Bartfolio/static/css/main.65877e90.css",
-    "main.js": "/Bartfolio/static/js/main.7a24bc34.js",
+    "main.js": "/Bartfolio/static/js/main.f560e2f6.js",
     "static/js/415.4d6acbeb.chunk.js": "/Bartfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Bartfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Baraa's Resume.pdf": "/Bartfolio/static/media/Baraa's Resume.ce9728b3fa9726e04135.pdf",
@@ -21,12 +21,12 @@
     "static/media/pre.svg": "/Bartfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Bartfolio/index.html",
     "main.65877e90.css.map": "/Bartfolio/static/css/main.65877e90.css.map",
-    "main.7a24bc34.js.map": "/Bartfolio/static/js/main.7a24bc34.js.map",
+    "main.f560e2f6.js.map": "/Bartfolio/static/js/main.f560e2f6.js.map",
     "415.4d6acbeb.chunk.js.map": "/Bartfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Bartfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.65877e90.css",
-    "static/js/main.7a24bc34.js"
+    "static/js/main.f560e2f6.js"
   ]
 }
